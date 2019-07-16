@@ -1,0 +1,7 @@
+C:\C#Labs\Lab2NateSimpson\bin\Debug\Lab2NateSimpson.exe.config
+C:\C#Labs\Lab2NateSimpson\bin\Debug\Lab2NateSimpson.exe
+C:\C#Labs\Lab2NateSimpson\bin\Debug\Lab2NateSimpson.pdb
+C:\C#Labs\Lab2NateSimpson\obj\Debug\Lab2NateSimpson.csprojAssemblyReference.cache
+C:\C#Labs\Lab2NateSimpson\obj\Debug\Lab2NateSimpson.csproj.CoreCompileInputs.cache
+C:\C#Labs\Lab2NateSimpson\obj\Debug\Lab2NateSimpson.exe
+C:\C#Labs\Lab2NateSimpson\obj\Debug\Lab2NateSimpson.pdb
