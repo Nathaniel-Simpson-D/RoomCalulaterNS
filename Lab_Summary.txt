@@ -1,0 +1,12 @@
+	Step 1:
+Prompt the user for the data and store it in a new variable variable using Readline.
+ex
+string X = Console.ReadLine();
+	Step 2: 
+create variable and initialize the the variable as the equation.
+ex
+double Y = double.Parse(x) * 2;
+	Step 3:
+Display to the user using write line.
+ex
+Console.WriteLine(Y);
